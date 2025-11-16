@@ -15,6 +15,8 @@
 				"D:/GAM-303/CastlesAndBlocks/Content/Interactable.uasset",
 				"D:/GAM-303/CastlesAndBlocks/Content/BP_Grabbable.uasset",
 				"D:/GAM-303/CastlesAndBlocks/Content/BP_Collectible.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/BP_Turret.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/BP_TurretProjectile.uasset",
 				"D:/GAM-303/CastlesAndBlocks/Content/PlayerMovement.uasset"
 			]
 		}
