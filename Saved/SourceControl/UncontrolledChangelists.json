@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GAM-303/CastlesAndBlocks/Content/TestLevel.umap",
+				"D:/GAM-303/CastlesAndBlocks/Content/PlayerWalk.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/PlayerControls.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/PlayerCharacter.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/CNBGameMode.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/PlayerLook.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/BP_Door.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/Interactable.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/BP_Grabbable.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/BP_Collectible.uasset",
+				"D:/GAM-303/CastlesAndBlocks/Content/PlayerMovement.uasset"
+			]
+		}
+	]
+}
